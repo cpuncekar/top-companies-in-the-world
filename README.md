@@ -9,3 +9,6 @@ https://companiesmarketcap.com/usa/largest-american-companies-by-revenue/
 
 Top Companies in the World ( Market Cap )
 https://companiesmarketcap.com/
+
+Top Companies According to number of employees
+https://companiesmarketcap.com/largest-companies-by-number-of-employees/
