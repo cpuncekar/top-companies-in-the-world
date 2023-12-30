@@ -12,3 +12,6 @@ https://companiesmarketcap.com/
 
 Top Companies According to number of employees
 https://companiesmarketcap.com/largest-companies-by-number-of-employees/
+
+Top Companies Global Rankings Largest tech companies by ( market cap )
+https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/
