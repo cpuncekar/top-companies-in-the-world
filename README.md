@@ -15,3 +15,9 @@ https://companiesmarketcap.com/largest-companies-by-number-of-employees/
 
 Top Companies Global Rankings Largest tech companies by ( market cap )
 https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/
+
+Sales Force
+https://companiesmarketcap.com/salesforce/marketcap/
+
+Adobe
+https://companiesmarketcap.com/adobe/marketcap/
