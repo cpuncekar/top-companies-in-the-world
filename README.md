@@ -16,6 +16,9 @@ https://companiesmarketcap.com/largest-companies-by-number-of-employees/
 Top Companies Global Rankings Largest tech companies by ( market cap )
 https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/
 
+Top Companies Global Rankings (cash on hand)
+https://companiesmarketcap.com/companies-with-the-highest-cash-on-hand/
+
 Oracle
 https://companiesmarketcap.com/oracle/marketcap/
 
