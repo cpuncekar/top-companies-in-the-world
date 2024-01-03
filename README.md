@@ -19,6 +19,9 @@ https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/
 Top Companies Global Rankings (cash on hand)
 https://companiesmarketcap.com/companies-with-the-highest-cash-on-hand/
 
+Top Companies United States ( earnings )
+https://companiesmarketcap.com/usa/most-profitable-american-companies/
+
 Oracle
 https://companiesmarketcap.com/oracle/marketcap/
 
