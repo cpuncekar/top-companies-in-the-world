@@ -10,6 +10,9 @@ https://companiesmarketcap.com/usa/largest-american-companies-by-revenue/
 Top Companies in the World ( Market Cap )
 https://companiesmarketcap.com/
 
+Top Companies in the World ( Most Profitable )
+https://companiesmarketcap.com/most-profitable-companies/
+
 Top Companies According to number of employees
 https://companiesmarketcap.com/largest-companies-by-number-of-employees/
 
