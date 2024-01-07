@@ -41,3 +41,6 @@ https://www.nyse.com/quote/index/SPX
 VOO
 Vanguard S&P 500 ETF
 https://investor.vanguard.com/investment-products/etfs/profile/voo
+
+
+https://companiesmarketcap.com/usa/american-companies-ranked-by-dividend-yield/
