@@ -44,3 +44,4 @@ https://investor.vanguard.com/investment-products/etfs/profile/voo
 
 
 https://companiesmarketcap.com/usa/american-companies-ranked-by-dividend-yield/
+https://companiesmarketcap.com/germany/largest-companies-in-germany-by-market-cap/
