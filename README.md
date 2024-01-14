@@ -1,5 +1,7 @@
 # top-companies-in-the-world
 Top Companies in the World - A-List
+Top Companies in the United States ( Market Cap ) - Microsoft is now #1
+https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
 
 Top Companies in the United States ( Market Cap )
 https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
