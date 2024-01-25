@@ -1,6 +1,10 @@
 # top-companies-in-the-world
 Top Companies in the World - A-List
-Top Companies in the United States ( Market Cap ) - Microsoft is now #1
+
+Market capitalization of Apple (AAPL)
+https://companiesmarketcap.com/apple/marketcap/
+
+Top Companies in the United States ( Market Cap ) - Microsoft is now #1 ( edited - was #1, Apple is now back on Top )
 Microsoft is now a $1 trillion company
 The Verge article - https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value
 
