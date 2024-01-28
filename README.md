@@ -7,6 +7,7 @@ https://companiesmarketcap.com/apple/marketcap/
 Top Companies in the United States ( Market Cap ) - Microsoft is now #1 ( edited - was #1, Apple is now back on Top )
 Microsoft is now a $1 trillion company
 The Verge article - https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value
+The Verge article follow up layoffs - https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs
 
 
 https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
