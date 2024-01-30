@@ -10,7 +10,9 @@ Microsoft is now a $1 trillion company
 The Verge article - https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value
 The Verge article follow up layoffs - https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs
 
+https://companiesmarketcap.com/top-companies-by-market-cap-gain/
 
+Companies ranked by Market Cap gain (compared to the day before)
 https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
 
 Top Companies in the United States ( Market Cap )
