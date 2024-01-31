@@ -10,6 +10,17 @@ Microsoft is now a $1 trillion company
 The Verge article - https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value
 The Verge article follow up layoffs - https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs
 
+Microsoft - Xbox Revenues
+https://www.gamesindustry.biz/xbox-revenues-up-49-following-activision-blizzard-acquisition
+
+More info:
+Microsoft's Q2 results show initial impact of $68.7 billion deal, including record monthly active users
+The numbers
+Revenue: $62 billion (up 18% year-on-year)
+More Personal Computing (incl. Xbox) revenue: $16.9 billion (up 19%)
+Operating income: $27 billion (up 33%)
+Net income: $21.9 billion (up 33%)
+
 https://companiesmarketcap.com/top-companies-by-market-cap-gain/
 
 Companies ranked by Market Cap gain (compared to the day before)
