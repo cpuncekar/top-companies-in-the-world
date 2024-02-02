@@ -50,6 +50,9 @@ https://companiesmarketcap.com/companies-with-the-highest-cash-on-hand/
 Top Companies United States ( earnings )
 https://companiesmarketcap.com/usa/most-profitable-american-companies/
 
+Amazon
+https://companiesmarketcap.com/amazon/marketcap/
+
 Oracle
 https://companiesmarketcap.com/oracle/marketcap/
 
