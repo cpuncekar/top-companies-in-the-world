@@ -23,6 +23,9 @@ Net income: $21.9 billion (up 33%)
 
 https://companiesmarketcap.com/top-companies-by-market-cap-gain/
 
+Market capitalization of NVIDIA (NVDA)
+https://companiesmarketcap.com/nvidia/marketcap/
+
 Companies ranked by Market Cap gain (compared to the day before)
 https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
 
