@@ -1,5 +1,5 @@
 # top-companies-in-the-world
-Top Companies in the World - A-List
+Top Companies in the World - A-List ( as of 02.06.24 )
 https://companiesmarketcap.com/
 
 Market capitalization of Apple (AAPL)
