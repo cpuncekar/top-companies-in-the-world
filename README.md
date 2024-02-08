@@ -79,3 +79,7 @@ https://companiesmarketcap.com/germany/largest-companies-in-germany-by-market-ca
 
 
 News - https://www.theverge.com/
+
+
+Disney invests $1.5 billion in Epic to create ‘persistent universe’ tied to Fortnite
+https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse
