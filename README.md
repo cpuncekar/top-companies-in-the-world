@@ -65,6 +65,9 @@ https://companiesmarketcap.com/salesforce/marketcap/
 Adobe
 https://companiesmarketcap.com/adobe/marketcap/
 
+Market capitalization of NVIDIA (NVDA)
+Market cap: $1.781 Trillion
+https://companiesmarketcap.com/nvidia/marketcap/
 
 S&P 500 (SPX)
 https://www.nyse.com/quote/index/SPX
