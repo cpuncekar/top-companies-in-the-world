@@ -24,6 +24,9 @@ Net income: $21.9 billion (up 33%)
 
 https://companiesmarketcap.com/top-companies-by-market-cap-gain/
 
+Microsoft - Xbox Revenues
+https://www.gamesindustry.biz/xbox-revenues-up-49-following-activision-blizzard-acquisition
+
 Market capitalization of NVIDIA (NVDA)
 https://companiesmarketcap.com/nvidia/marketcap/
 
