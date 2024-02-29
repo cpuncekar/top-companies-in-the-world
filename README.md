@@ -5,7 +5,6 @@ https://companiesmarketcap.com/
 Market capitalization of Apple (AAPL)
 https://companiesmarketcap.com/apple/marketcap/
 
-
 Top Companies in the United States ( Market Cap ) - Microsoft is now #1 ( edited - was #1, Apple is now back on Top )
 Microsoft is now a $1 trillion company
 The Verge article - https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value
@@ -80,6 +79,9 @@ VOO
 Vanguard S&P 500 ETF
 https://investor.vanguard.com/investment-products/etfs/profile/voo
 
+Market capitalization of Berkshire Hathaway (BRK-B)
+Market cap: $892.13 Billion
+https://companiesmarketcap.com/berkshire-hathaway/marketcap/
 
 https://companiesmarketcap.com/usa/american-companies-ranked-by-dividend-yield/
 https://companiesmarketcap.com/germany/largest-companies-in-germany-by-market-cap/
