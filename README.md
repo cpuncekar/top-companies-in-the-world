@@ -1,94 +1,33 @@
-# top-companies-in-the-world
-##Top Companies in the World - A-List ( as of 02.06.24 )
-https://companiesmarketcap.com/
+# Top Companies in the World
 
-Market capitalization of Apple (AAPL)
-https://companiesmarketcap.com/apple/marketcap/
+## Overview
+This repository provides information about the top companies in the world, including their market capitalization, revenue, and notable news articles.
 
-Top Companies in the United States ( Market Cap ) - Microsoft is now #1 ( edited - was #1, Apple is now back on Top )
-Microsoft is now a $1 trillion company
-The Verge article - https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value
-The Verge article follow up layoffs - https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs
+### Source
+The data is sourced from [companiesmarketcap.com](https://companiesmarketcap.com/).
 
-Microsoft - Xbox Revenues
-https://www.gamesindustry.biz/xbox-revenues-up-49-following-activision-blizzard-acquisition
+## Contents
 
-More info:
-Microsoft's Q2 results show initial impact of $68.7 billion deal, including record monthly active users
-The numbers
-Revenue: $62 billion (up 18% year-on-year)
-More Personal Computing (incl. Xbox) revenue: $16.9 billion (up 19%)
-Operating income: $27 billion (up 33%)
-Net income: $21.9 billion (up 33%)
+1. [Market Capitalization of Apple (AAPL)](https://companiesmarketcap.com/apple/marketcap/)
+2. [Market Capitalization of NVIDIA (NVDA)](https://companiesmarketcap.com/nvidia/marketcap/)
+3. [Top Companies in the United States by Market Cap](https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/)
+4. [Top Companies in the United States by Revenue](https://companiesmarketcap.com/usa/largest-american-companies-by-revenue/)
+5. [Top Companies in the World by Market Cap](https://companiesmarketcap.com/)
+6. [Top Companies in the World - Most Profitable](https://companiesmarketcap.com/most-profitable-companies/)
 
-https://companiesmarketcap.com/top-companies-by-market-cap-gain/
+## Latest Updates
 
-Microsoft - Xbox Revenues
-https://www.gamesindustry.biz/xbox-revenues-up-49-following-activision-blizzard-acquisition
+### Microsoft
+- **Market Cap**: Microsoft is currently the top company in the United States by market cap. [Source](https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/)
+- **Microsoft's Milestone**: Microsoft has reached a $1 trillion valuation. Read more on [The Verge](https://www.theverge.com/2019/4/25/18515623/microsoft-worth-1-trillion-dollars-stock-price-value).
+- **Xbox Revenues**: Xbox revenues increased by 49% following the Activision Blizzard acquisition. [Source](https://www.gamesindustry.biz/xbox-revenues-up-49-following-activision-blizzard-acquisition)
+- **Q2 Results**: Microsoft's Q2 results show the initial impact of the $68.7 billion deal, including record monthly active users.
+   - Revenue: $62 billion (up 18% year-on-year)
+   - More Personal Computing (incl. Xbox) revenue: $16.9 billion (up 19%)
+   - Operating income: $27 billion (up 33%)
+   - Net income: $21.9 billion (up 33%)
+   [Source](https://companiesmarketcap.com/top-companies-by-market-cap-gain/)
+- **Layoffs**: Microsoft's recent acquisition of Activision Blizzard was followed by layoffs. Read more on [The Verge](https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs)
 
-Market capitalization of NVIDIA (NVDA)
-https://companiesmarketcap.com/nvidia/marketcap/
-
-Companies ranked by Market Cap gain (compared to the day before)
-https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
-
-Top Companies in the United States ( Market Cap )
-https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap/
-
-Top Companies in the United States ( Revenue )
-https://companiesmarketcap.com/usa/largest-american-companies-by-revenue/
-
-Top Companies in the World ( Market Cap )
-https://companiesmarketcap.com/
-
-Top Companies in the World ( Most Profitable )
-https://companiesmarketcap.com/most-profitable-companies/
-
-Top Companies According to number of employees
-https://companiesmarketcap.com/largest-companies-by-number-of-employees/
-
-Top Companies Global Rankings Largest tech companies by ( market cap )
-https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/
-
-Top Companies Global Rankings (cash on hand)
-https://companiesmarketcap.com/companies-with-the-highest-cash-on-hand/
-
-Top Companies United States ( earnings )
-https://companiesmarketcap.com/usa/most-profitable-american-companies/
-
-Amazon
-https://companiesmarketcap.com/amazon/marketcap/
-
-Oracle
-https://companiesmarketcap.com/oracle/marketcap/
-
-Sales Force
-https://companiesmarketcap.com/salesforce/marketcap/
-
-Adobe
-https://companiesmarketcap.com/adobe/marketcap/
-
-Market capitalization of NVIDIA (NVDA)
-Market cap: $1.781 Trillion
-https://companiesmarketcap.com/nvidia/marketcap/
-
-S&P 500 (SPX)
-https://www.nyse.com/quote/index/SPX
-
-VOO
-Vanguard S&P 500 ETF
-https://investor.vanguard.com/investment-products/etfs/profile/voo
-
-Market capitalization of Berkshire Hathaway (BRK-B)
-Market cap: $892.13 Billion
-https://companiesmarketcap.com/berkshire-hathaway/marketcap/
-
-https://companiesmarketcap.com/usa/american-companies-ranked-by-dividend-yield/
-https://companiesmarketcap.com/germany/largest-companies-in-germany-by-market-cap/
-
-
-News - https://www.theverge.com/
-News - Tech - Microsoft - https://www.theverge.com/microsoft
-
-Disney invests $1.5 billion in Epic to create ‘persistent universe’ tied to Fortnite
-https://www.theverge.com/2024/2/7/24065281/disney-epic-games-investment-fortnite-metaverse
+## Additional Resources
+- [Top Companies in the United States by Market Cap Gain](https://companiesmarketcap.com/usa/largest-companies-in-the-usa-by-market-cap-gain/)
